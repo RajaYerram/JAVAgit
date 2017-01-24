@@ -3,6 +3,7 @@ package com.test.java;
 import java.util.Scanner;
 
 public class Even {
+	//Author: Raja Yerram
 
 	public static void main(String[] args) {
 		int i;
